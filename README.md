@@ -6,4 +6,7 @@
 `该命令用于将 site 文件夹里面的内容转换并上传到云端  `  
 
 转换命令：mkdocs build  
-`该命令用于将本地的博客内容打包到 site 文件夹`
+`该命令用于将本地的博客内容打包到 site 文件夹  
+
+推送命令：git push -u origin main
+`

@@ -1,0 +1,10 @@
+lsmkdocs
+mkdocs-material
+mkdocs-material-extensions
+pymdown-extensions
+mkdocs-changelog-plugin
+mkdocs-git-authors-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-glightbox
+mkdocs-minify-plugin
+mkdocs-statistics-plugin

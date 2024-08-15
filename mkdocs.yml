@@ -1,11 +1,11 @@
-site_name: Fucking Code # 站点名称
-site_url: https://Xiaokang2022.github.io/Fucking-Code/ # 站点链接
-repo_url: https://github.com/Xiaokang2022/Fucking-Code/ # 仓库地址
-repo_name: Xiaokang2022/Fucking-Code # 仓库名称
+site_name: leopard 个人博客 # 站点名称
+site_url: https://leopardstack.github.io/Fucking-Code/ # 站点链接
+repo_url: https://github.com/LeopardStack/LeopardXieBlog/ # 仓库地址
+repo_name: LeopardStack/LeopardXieBlog # 仓库名称
 edit_uri: edit/main/docs/ # 编辑地址（页面会出现编辑按钮）
 site_description: Everything about the fucking code. # 站点描述
-site_author: Xiaokang2022 # 站点作者
-copyright: Copyright &copy; 2024 小康2022 # 版权信息（会出现在左下角）
+site_author: LeopardXie # 站点作者
+copyright: Copyright &copy; 2024 leopard # 版权信息（会出现在左下角）
 remote_branch: gh-pages # GitHub Pages 分支名称（默认值）
 remote_name: origin # 远程分支的名称（默认值）
 docs_dir: docs # 文档目录（默认值）
@@ -178,13 +178,13 @@ extra: # 额外设定
     json: [.s2]
   social: # 联系方式（页面右下角内容）
     - icon: fontawesome/brands/github # 图标（可以去官网看有哪些）
-      link: https://github.com/Xiaokang2022/Fucking-Code/ # 链接
+      link: https://github.com/LeopardStack/LeopardXieBlog/ # 链接
       name: GitHub 仓库 # 提示词
     - icon: fontawesome/solid/house
-      link: https://xiaokang2022.github.io/Fucking-Code/
+      link: https://leopardstack.github.io/LeopardXieBlog/
       name: 主页
     - icon: fontawesome/solid/paper-plane
-      link: mailto:2951256653@qq.com
+      link: mailto:2904083750@qq.com
       name: 联系作者
 
 extra_javascript: # 额外 JS
@@ -268,12 +268,21 @@ nav: # 导航栏
       - 项目许可证: LICENSE.md
       - 建议区: Suggest.md
 
-  - 数据结构:
+  - 个人思考:
       - 数据结构简介: Data Structure/index.md
 
-  - 算法:
-      - 算法简介: Algorithm/index.md
-      - 排序:
+  - 软件开发:
+      - Java 开发:
+          - Java 基础知识:
+              - 一、变量和数据类型: 软件开发/Java 开发/Java 基础知识/JAVASE 基础知识/一、变量和数据类型.md
+              - 二、运算符: 软件开发/Java 开发/Java 基础知识/JAVASE 基础知识/二、运算符.md
+              - 三、分支结构: 软件开发/Java 开发/Java 基础知识/JAVASE 基础知识/三、分支结构.md
+              - 四、数组: 软件开发/Java 开发/Java 基础知识/JAVASE 基础知识/四、数组.md
+              - 五、类和对象: 软件开发/Java 开发/Java 基础知识/JAVASE 基础知识/五、类和对象.md
+              - 六、Java核心类: 软件开发/Java 开发/Java 基础知识/JAVASE 基础知识/六、Java核心类.md
+              - 七、异常机制、 File 类和 IO 流: 软件开发/Java 开发/Java 基础知识/JAVASE 基础知识/七、异常机制、 File 类和 IO 流.md
+              - 八、进程和线程: 软件开发/Java 开发/Java 基础知识/JAVASE 基础知识/八、进程和线程.md
+      - 前端开发:
           - 排序简介: Algorithm/sort/index.md
           - 直接插入排序: Algorithm/sort/straight_insertion_sort.md
           - 二分插入排序: Algorithm/sort/binary_insertion_sort.md
@@ -291,13 +300,16 @@ nav: # 导航栏
           - 堆排序: Algorithm/sort/heap_sort.md
           - 桶排序: Algorithm/sort/bucket_sort.md
           - tim_sort: Algorithm/sort/tim_sort.md
-          - pdq_sort: Algorithm/sort/pdq_sort.md
-      - 查找:
+          - pdq_sort:
+              - 你好:  Algorithm/sort/pdq_sort.md
+      - C++ 开发:
           - 查找简介: Algorithm/search/index.md
           - 顺序查找: Algorithm/search/seq_search.md
           - 分块查找（改进的顺序查找）: Algorithm/search/block_search.md
           - 二分查找: Algorithm/search/binary_search.md
           - 散列查找: Algorithm/search/hash_search.md
+      - OpenGL 开发:
+          - 环境配置: 软件开发/OpenGL 开发/环境配置/index.md
       # - 预处理:
       #     - 前缀和:
       #     - 差分:

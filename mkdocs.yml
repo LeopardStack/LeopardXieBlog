@@ -289,7 +289,13 @@ nav: # 导航栏
               - 七、异常机制、 File 类和 IO 流: 软件开发/Java 开发/Java 基础知识/JAVASE 基础知识/七、异常机制、 File 类和 IO 流.md
               - 八、进程和线程: 软件开发/Java 开发/Java 基础知识/JAVASE 基础知识/八、进程和线程.md
       - 前端开发:
-          - 排序简介: Algorithm/sort/index.md
+          - HTML 语言: 前端开发/HTML语言.md
+          - CSS 语言: 前端开发/CSS 语言.md
+          - js 语言:
+              - 开始: 前端开发/js 语言/概述.md
+              - 一、js 语言概述: 前端开发/js 语言/nextDirectory/一、js 语言概述.md
+              - 二、WebAPI(DOM 操作): 前端开发/js 语言/nextDirectory/二、WebAPI(DOM 操作).md
+          - 移动Web开发: 前端开发/移动Web开发.md
           - 直接插入排序: Algorithm/sort/straight_insertion_sort.md
           - 二分插入排序: Algorithm/sort/binary_insertion_sort.md
           - 分组插入排序（希尔排序）: Algorithm/sort/shell_sort.md

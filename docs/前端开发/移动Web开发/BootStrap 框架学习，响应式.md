@@ -1,0 +1,25 @@
+# BootStrap 框架学习，响应式
+
+工作中要么通过媒体查询来做响应式布局，要么通过 BootStrap 框架来做
+
+![Untitled](BootStrap%20%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%93%8D%E5%BA%94%E5%BC%8F%2073d6c1ed03d8486790088d680e2a87e5/Untitled.png)
+
+![Untitled](BootStrap%20%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%93%8D%E5%BA%94%E5%BC%8F%2073d6c1ed03d8486790088d680e2a87e5/Untitled%201.png)
+
+![Untitled](BootStrap%20%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%93%8D%E5%BA%94%E5%BC%8F%2073d6c1ed03d8486790088d680e2a87e5/Untitled%202.png)
+
+![Untitled](BootStrap%20%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%93%8D%E5%BA%94%E5%BC%8F%2073d6c1ed03d8486790088d680e2a87e5/Untitled%203.png)
+
+![Untitled](BootStrap%20%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%93%8D%E5%BA%94%E5%BC%8F%2073d6c1ed03d8486790088d680e2a87e5/Untitled%204.png)
+
+row 类作用就是抵消 container 类的 15px 的内边距， row 有 -15px 的外边距
+
+![Untitled](BootStrap%20%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%93%8D%E5%BA%94%E5%BC%8F%2073d6c1ed03d8486790088d680e2a87e5/Untitled%205.png)
+
+![Untitled](BootStrap%20%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%93%8D%E5%BA%94%E5%BC%8F%2073d6c1ed03d8486790088d680e2a87e5/Untitled%206.png)
+
+![Untitled](BootStrap%20%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%93%8D%E5%BA%94%E5%BC%8F%2073d6c1ed03d8486790088d680e2a87e5/Untitled%207.png)
+
+![Untitled](BootStrap%20%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%93%8D%E5%BA%94%E5%BC%8F%2073d6c1ed03d8486790088d680e2a87e5/Untitled%208.png)
+
+![Untitled](BootStrap%20%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%93%8D%E5%BA%94%E5%BC%8F%2073d6c1ed03d8486790088d680e2a87e5/Untitled%209.png)
